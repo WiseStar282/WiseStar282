@@ -1,4 +1,5 @@
 ### Hi there 👋
-I'm a computer science student of ipb university. I'm an individual that is adaptable, responsible, hardworking, enjoy work in team and
-really eager to learn many of things related to technology especially in the data sciences
+Data enthusiast with a keen interest in machine learning, data mining or data science. A person who is familiar with python
+programming language, has been involved in several machine learning projects, fast response, can work well in a team, able to adapt
+and have good communication and has a willingness to learn new things related to machine learning.
 
